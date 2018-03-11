@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "p1": "git+https://github.com/reshadi/p1.git#v1.0.1"
+    "p1": "git+https://github.com/reshadi/p1.git#semver:^1.0.0"
   }
 }
